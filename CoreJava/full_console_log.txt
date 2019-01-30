@@ -1,0 +1,1985 @@
+############## Library Catalogue App Started #############
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+1
+You have selected to add a new Subject ... 
+Please provide a Subject title:
+Java
+Please provide Subject duration in hrs:
+40
+New Subject added Sucessfully ..
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+1
+You have selected to add a new Subject ... 
+Please provide a Subject title:
+J2EE
+Please provide Subject duration in hrs:
+160
+New Subject added Sucessfully ..
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+1
+You have selected to add a new Subject ... 
+Please provide a Subject title:
+AWS
+Please provide Subject duration in hrs:
+24
+New Subject added Sucessfully ..
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+1
+You have selected to add a new Subject ... 
+Please provide a Subject title:
+SQL
+Please provide Subject duration in hrs:
+32
+New Subject added Sucessfully ..
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=null]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=null]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=null]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+
+No Books are available currently in the Catalogue.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+Core Java by Kathy Sierra
+Please provide a price:
+2000
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+12/11/2018
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+SQL
+Java
+AWS
+J2EE
+Java
+Subject retrieved :Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=null]
+Input Book object saved :[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]
+New Book added Sucessfully ..
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+SQL Fundamentals
+Please provide a price:
+1800
+Please provide a volume:
+2
+Please provide a publish date in dd/mm/yyyy format:
+11/10/2017
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+Java
+SQL
+AWS
+J2EE
+SQL
+Subject retrieved :Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=null]
+Input Book object saved :[Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]]
+New Book added Sucessfully ..
+Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 2
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=null]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+SQL OCA Certification Book
+Please provide a price:
+2100
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+19/01/2019
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+AWS
+Java
+J2EE
+SQL
+SQL
+Subject retrieved :Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]]]
+Input Book object saved :[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]
+New Book added Sucessfully ..
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 3
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=null]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=null]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+J2EE Basics
+Please provide a price:
+1800
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+01/01/2019
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+Java
+J2EE
+AWS
+SQL
+J2EE
+Subject retrieved :Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=null]
+Input Book object saved :[Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]
+New Book added Sucessfully ..
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+J2EE Primer
+Please provide a price:
+2100
+Please provide a volume:
+2
+Please provide a publish date in dd/mm/yyyy format:
+21/12/2018
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+AWS
+J2EE
+Java
+SQL
+J2EE
+Subject retrieved :Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Input Book object saved :[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]]
+New Book added Sucessfully ..
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888], Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=null]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+AWS Basics
+Please provide a price:
+2500
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+31/12/2018
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+J2EE
+Java
+AWS
+SQL
+AWS
+Subject retrieved :Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=null]
+Input Book object saved :[Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]]
+New Book added Sucessfully ..
+Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+AWS Fundamentals
+Please provide a price:
+1800
+Please provide a volume:
+2
+Please provide a publish date in dd/mm/yyyy format:
+12/01/2019
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+J2EE
+AWS
+SQL
+Java
+AWS
+Subject retrieved :Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]]]
+Input Book object saved :[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]]
+New Book added Sucessfully ..
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880], Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+SQL Fundamentals
+Book found : Book [bookId=-2302072179880773746, title=SQL Fundamentals, price=1800.0, volume=2, publishDate=2017-10-11, subjectId=5095969414879126365]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :SQL Fundamentals deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 6
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880], Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+SQL
+Subject retrieved : Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+SQL Fundamentals
+Please provide a price:
+1915
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+20/12/2018
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+J2EE
+AWS
+Java
+SQL
+SQL
+Subject retrieved :Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Input Book object saved :[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]]
+New Book added Sucessfully ..
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880], Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+SQL
+Subject retrieved : Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+SQL
+TITLE : SQL
+Book retrieved : Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+SQL Fundamentals
+TITLE : SQL Fundamentals
+Book retrieved : Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880], Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+AWS Basics
+Book found : Book [bookId=-4845026582064098891, title=AWS Basics, price=2500.0, volume=1, publishDate=2018-12-31, subjectId=4058031337556309880]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :AWS Basics deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 6
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+AWS Primer
+Please provide a price:
+2800
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+02/01/2019
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+AWS
+Java
+SQL
+J2EE
+AWS
+Subject retrieved :Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]]]
+Input Book object saved :[Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]
+New Book added Sucessfully ..
+Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880], Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880], Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880], Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+3
+You have selected to delete a Subject ... 
+Please provide a Subject title:
+AWS
+Subject found : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880], Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]]
+Cannot delete the Subject as there are one or more Books associated with it.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+AWS
+Book found : Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :AWS deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+AWS Fundamentals
+Book found : Book [bookId=-2191016218684618076, title=AWS Fundamentals, price=1800.0, volume=2, publishDate=2019-01-12, subjectId=4058031337556309880]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :AWS Fundamentals deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 6
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888], Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+AWS Primer
+Book found : Book [bookId=2879246773307458188, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-02, subjectId=4058031337556309880]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :AWS Primer deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 5
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+AWS REFRESHER
+Please provide a price:
+1200
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+30/12/2018
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+Java
+J2EE
+AWS
+SQL
+AWS
+Subject retrieved :Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[]]
+Input Book object saved :[Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]]
+New Book added Sucessfully ..
+Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 6
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888], Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+AWS
+TITLE : AWS
+Book retrieved : Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+AWS REFRESHER
+Book found : Book [bookId=5678784985819751907, title=AWS REFRESHER, price=1200.0, volume=1, publishDate=2018-12-30, subjectId=4058031337556309880]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :AWS REFRESHER deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 5
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+AWS
+TITLE : AWS
+Book not Found.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+3
+You have selected to delete a Subject ... 
+Please provide a Subject title:
+AWS
+Subject found : Subject [subjectId=4058031337556309880, subtitle=AWS, durationInHrs=24, references=[]]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Subject with title :AWS deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject not Found.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 3
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+AWS
+TITLE : AWS
+Book not Found.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 5
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+1
+You have selected to add a new Subject ... 
+Please provide a Subject title:
+AWS
+Please provide Subject duration in hrs:
+28
+New Subject added Sucessfully ..
+Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=null]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 5
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+AWS REFRESHER
+Please provide a price:
+1800
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+14/12/2018
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+J2EE
+SQL
+AWS
+Java
+AWS
+Subject retrieved :Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=null]
+Input Book object saved :[Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]]
+New Book added Sucessfully ..
+Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 6
+Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=[Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365], Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+AWS Primer
+Please provide a price:
+2800
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+01/01/2019
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+J2EE
+AWS
+Java
+SQL
+AWS
+Subject retrieved :Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=[Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]]]
+Input Book object saved :[Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130]]
+New Book added Sucessfully ..
+Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=[Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130], Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888], Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+AWS
+Subject retrieved : Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=[Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130], Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+AWS
+TITLE : AWS
+Book retrieved : Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+AWS REFRE
+TITLE : AWS REFRE
+Book retrieved : Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+AWS P
+TITLE : AWS P
+Book retrieved : Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+2
+You have selected to add a new Book ... 
+Please provide a title:
+Maven
+Please provide a price:
+200
+Please provide a volume:
+1
+Please provide a publish date in dd/mm/yyyy format:
+12/10/2017
+Please choose a subject title to associate this book to:
+Total Subjects available : 4
+J2EE
+AWS
+SQL
+Java
+maven
+No Subject found please enter a valid name.
+Please choose a subject title to associate this book to:
+maven
+Total Subjects available : 4
+AWS
+Java
+J2EE
+SQL
+maven
+No Subject found please enter a valid name.
+Please choose a subject title to associate this book to:
+maven
+Total Subjects available : 4
+Java
+J2EE
+SQL
+AWS
+java
+Subject retrieved :Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Input Book object saved :[Book [bookId=2298997465738034242, title=Maven, price=200.0, volume=1, publishDate=2017-10-12, subjectId=1288922365803241114]]
+New Book added Sucessfully ..
+Book [bookId=2298997465738034242, title=Maven, price=200.0, volume=1, publishDate=2017-10-12, subjectId=1288922365803241114]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+5
+You have selected to search a Subject ... 
+Please provide a title:
+java
+Subject retrieved : Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114], Book [bookId=2298997465738034242, title=Maven, price=200.0, volume=1, publishDate=2017-10-12, subjectId=1288922365803241114]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+maven
+TITLE : maven
+Book retrieved : Book [bookId=2298997465738034242, title=Maven, price=200.0, volume=1, publishDate=2017-10-12, subjectId=1288922365803241114]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+4
+You have selected to delete a Book ... 
+Please provide a title:
+maven
+Book found : Book [bookId=2298997465738034242, title=Maven, price=200.0, volume=1, publishDate=2017-10-12, subjectId=1288922365803241114]
+Are you sure you want to delete, press Y to confirm, N to cancel ?
+Y
+Book with title :maven deleted successfully.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+MAVEN
+TITLE : MAVEN
+Book not Found.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+6
+You have selected to search a Book ... 
+Please provide a title:
+maven
+TITLE : maven
+Book not Found.
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+7
+You have selected to list all available Books ... 
+Total Books available : 7
+Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]
+Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]
+Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130]
+Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365]
+Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888]
+Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]
+Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+8
+You have selected to list all available Subjects ... 
+Total Subjects available : 4
+Subject [subjectId=8138514071206930888, subtitle=J2EE, durationInHrs=160, references=[Book [bookId=3922517341764361171, title=J2EE Primer, price=2100.0, volume=2, publishDate=2018-12-21, subjectId=8138514071206930888], Book [bookId=-3716504821121433217, title=J2EE Basics, price=1800.0, volume=1, publishDate=2019-01-01, subjectId=8138514071206930888]]]
+Subject [subjectId=1288922365803241114, subtitle=Java, durationInHrs=40, references=[Book [bookId=8077354527544737428, title=Core Java by Kathy Sierra, price=2000.0, volume=1, publishDate=2018-11-12, subjectId=1288922365803241114]]]
+Subject [subjectId=5095969414879126365, subtitle=SQL, durationInHrs=32, references=[Book [bookId=7355885747120330412, title=SQL OCA Certification Book, price=2100.0, volume=1, publishDate=2019-01-19, subjectId=5095969414879126365], Book [bookId=475882882706351020, title=SQL Fundamentals, price=1915.0, volume=1, publishDate=2018-12-20, subjectId=5095969414879126365]]]
+Subject [subjectId=-4297461853414494130, subtitle=AWS, durationInHrs=28, references=[Book [bookId=2142221109697515356, title=AWS Primer, price=2800.0, volume=1, publishDate=2019-01-01, subjectId=-4297461853414494130], Book [bookId=-6468517442014924951, title=AWS REFRESHER, price=1800.0, volume=1, publishDate=2018-12-14, subjectId=-4297461853414494130]]]
+
+##################################
+
+Main menu - please select one of the option below : 
+1 : Add new Subject
+2 : Add new Book
+3 : Delete Subject
+4 : Delete Book
+5 : Search Subject
+6 : Search Book
+7 : List all Books
+8 : List all Subjects
+0 : Quit
+0
+You have chosen to exit....Bye !
+############## Library Catalogue App Closing down #############
